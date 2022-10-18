@@ -11,8 +11,6 @@
 
 ## Skills
 
-### Languages
-
 <p text='left' >
   <a href="#">
     <img src="assets/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"/>
@@ -24,8 +22,6 @@
     <img src="assets/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"/>
   </a>
 </p>
-
-### Frameworks
 
 <p text='left'>
   <a href="#">
