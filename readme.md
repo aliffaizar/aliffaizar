@@ -6,6 +6,7 @@ As a full-stack JavaScript developer, my expertise lies in web development and I
 
 - 🌍  I'm based in Tasikmalaya, Indonesia
 - 🖥️  See my portfolio at [aliffaizar.com](http://aliffaizar.com)
+- 🧠  I'm learning everthing about JavaScript, Next.js, and Prisma
 
 ### Skills
 
