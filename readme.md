@@ -1,4 +1,26 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Faizar
+<style>
+  .typing-text {
+    animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
+    overflow: hidden; /* hide text that goes beyond the animation */
+    border-right: .15em solid; /* add a caret at the end of the text */
+}
+
+/* @keyframes for the typing animation */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+/* @keyframes for the caret blink */
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black; }
+}
+</style>
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&duration=2000&pause=1000&color=9456F7&vCenter=true&width=175&lines=Alif+Faizar)](https://git.io/typing-svg)
+
+<span class="typing-text">Alif Faizar</span>
 
 ## Full-Stack Developer
 
@@ -6,7 +28,6 @@ As a full-stack JavaScript developer, my expertise lies in web development and I
 
 - 🌍  I'm based in Tasikmalaya, Indonesia
 - 🖥️  See my portfolio at [aliffaizar.com](http://aliffaizar.com)
-- 🧠  I'm learning everthing about JavaScript, Next.js, and Prisma
 
 ### Skills
 
@@ -33,9 +54,8 @@ As a full-stack JavaScript developer, my expertise lies in web development and I
 
 ### My GitHub Stats
 
+<a href="http://www.github.com/aliffaizar"><img src="https://github-readme-stats.vercel.app/api?username=aliffaizar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aliffaizar's GitHub stats" /></a>
+
 <a href="http://www.github.com/aliffaizar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aliffaizar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/aliffaizar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://github.com/aliffaizar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffaizar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
