@@ -1,26 +1,5 @@
-<style>
-  .typing-text {
-    animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
-    overflow: hidden; /* hide text that goes beyond the animation */
-    border-right: .15em solid; /* add a caret at the end of the text */
-}
 
-/* @keyframes for the typing animation */
-@keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-}
-
-/* @keyframes for the caret blink */
-@keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: black; }
-}
-</style>
-
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&duration=2000&pause=1000&color=9456F7&vCenter=true&width=175&lines=Alif+Faizar)](https://git.io/typing-svg)
-
-<span class="typing-text">Alif Faizar</span>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Faizar
 
 ## Full-Stack Developer
 
