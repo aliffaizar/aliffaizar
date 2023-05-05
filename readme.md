@@ -3,7 +3,7 @@
 
 ## Full-Stack Developer
 
-As a skilled web developer with expertise in JavaScript, Node.js, React.js, and Nest.js. I am passionate about creating user-friendly and responsive web designs, and have experience in collaborating with cross-functional teams to deliver high-quality web application. I am committed to learn and to staying up-to-date with the latest trends and technologies in web development, and am excited to contribute to the growth and success of a forward-thinking organization.
+I am full-stack web developer, my expertise lies in web development and I have a strong understanding of both front-end and back-end technologies. I have a deep interest in technology and it drives me to constantly learning and seeking opportunities to expand my knowledge and improve my skills.
 
 - 🌍  I'm based in Tasikmalaya, Indonesia
 - 🖥️  See my portfolio at [aliffaizar.com](http://aliffaizar.com)
